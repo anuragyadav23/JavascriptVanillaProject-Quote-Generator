@@ -1,0 +1,1 @@
+# JavascriptVanillaProject-Quote-Generatoruote
