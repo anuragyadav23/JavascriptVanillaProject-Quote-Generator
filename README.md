@@ -1,1 +1,1 @@
-# JavascriptVanillaProject-Quote-Generatoruote
+# JavascriptVanillaProject-Quote-Generator
